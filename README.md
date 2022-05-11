@@ -12,3 +12,5 @@ Protocolo Experimental
 
 A base deve ser dividida em 50%, 20% e 30% para treinamento, validação e teste, respectivamente. 
 Note que a base é desbalanceada. Nesse caso, reporte métricas como Precision, Recall, F_Score e curva ROC
+
+## OBS:Apenas o script, sem base de dados. 
